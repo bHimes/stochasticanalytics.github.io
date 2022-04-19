@@ -1,7 +1,7 @@
-name: "Benjamin Barad"
-description: "The Personal Homepage for Benjamin Barad"
+name: "Stochastic Analytics, LLC"
+description: "The Homepage for Stochastic Analytics, LLC"
 
-url: "http://benjaminbarad.com"
+url: "http://clearnoise.org"
 
 gems: [jekyll-paginate]
 paginate: 5
